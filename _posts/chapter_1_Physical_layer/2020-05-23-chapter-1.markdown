@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Signals and Cables"
+date:   2020-05-23 15:34:51 +0100
+categories: chapter1
+permalink: /chapter1/
+author: "Sachin Soman"
+---
