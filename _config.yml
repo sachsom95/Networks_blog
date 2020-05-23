@@ -24,7 +24,7 @@ author: Sachin Soman
 description: >- # this means to ignore newlines until "baseurl:"
   A complete tutorial to understand everything you need to know about how the Internet works. Also I don't want to
   carry notebooks so I'll use the blog as my personal notebook. :)
-baseurl: "Networks_blog" # the subpath of your site, e.g. /blog
+baseurl: "Networks_blog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ssachinsoman95
 github_username:  sachsom95
