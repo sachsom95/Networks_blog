@@ -26,4 +26,4 @@ this is achieved through `protocols` and `layering`.
 
 Before we go any further its best that we see the full layer of Internet.
 
-![image](assets/img/layer_architecure.png)
+![image]({{site.github.url}}/assets/images/layer_architecture.png)
