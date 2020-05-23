@@ -6,7 +6,7 @@ categories: chapter1
 permalink: /chapter1/
 author: "Sachin Soman"
 ---
-Layering is the most important concept in all of the Networks. Layers add modularity to networks and help to manage
+Layering is the most important concept in all of the Networks. Layers add modularity  and help to manage
 the complexity of networks. Even the most trivial task such as clicking on a webpage and getting results involves
 a large number of operations in the background.
 
@@ -20,7 +20,10 @@ Some of the operations are that happen in the background are:
 - Ensuring the reliability of data sent
 
 These operations are just tip of the iceberg and all these operations happen just for a click of a button
-what we need is, therefore, is a sense of modularity that will help us reuse many of the network functionality for different settings.
-This is achieved through `protocols` and `layering`.
+what we need is, therefore, is a sense of modularity that will help us reuse many of the network functionality for 
+different settings,
+this is achieved through `protocols` and `layering`.
 
+Before we go any further its best that we see the full layer of Internet.
 
+![image](assets/img/layer_architecure.png)
